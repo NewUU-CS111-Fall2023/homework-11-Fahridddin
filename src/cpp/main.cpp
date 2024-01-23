@@ -3,7 +3,7 @@
  AUTOGRADER WILL NOT EXECUTE THIS FILE.
  * Author:
  * Date:
- * Name:
+ * Name:fahriddin
  */
 
 #include <iostream>

@@ -1,7 +1,7 @@
 /*
  * Author:
  * Date:
- * Name:
+ * Name:fahriddin
  */
 
 class Problem1 {
